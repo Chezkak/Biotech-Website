@@ -14,3 +14,10 @@ h2{
   font-family:Arial;
   color:white;
 }
+p{
+  color: white;
+  font-size: 17px;
+  font-family: Arial;
+  width: 75%;
+  margin: auto;
+}
